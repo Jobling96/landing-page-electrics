@@ -1,1 +1,1 @@
-# Landing-Page-Electrics
+Electric board image - Pexels - Account Pixabay
