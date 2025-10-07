@@ -27,7 +27,11 @@ body{
     align-items: center;
     padding-right: 20px;
     font-size: 25px;
+}
 
+a{
+    text-decoration: none;
+    color: inherit;
 }
 
 /* Main 1 of webpage */
